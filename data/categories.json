@@ -1,0 +1,26 @@
+[
+   {
+      "catId": "3d9e5b0d-d601-46a9-aea2-72bc1befd684",
+      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
+      "catType": "income",
+      "catName": "caza"
+   },
+   {
+      "catId": "232423-4534534",
+      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
+      "catType": "expense",
+      "catName": "ev kirası"
+   },
+   {
+      "catId": "2342342-78567567",
+      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
+      "catType": "income",
+      "catName": "deneme"
+   },
+   {
+      "catId": "e534e5b0-8b05-4a07-852a-ab0b2d81c2bb",
+      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
+      "catType": "income",
+      "catName": "maaş"
+   }
+]
