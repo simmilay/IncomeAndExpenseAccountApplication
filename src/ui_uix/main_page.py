@@ -36,7 +36,7 @@ def income():
     elif userChoice == "3":
         return ic.removeIncome()
     elif userChoice == "4":
-        ic.listIncome()
+        ic.listAllIncome()
     elif userChoice == "5":
         backToMenu()
 
@@ -52,11 +52,11 @@ def expense():
     elif userChoice == "3":
         return xp.removeExpense()
     elif userChoice == "4":
-        xp.listExpense()
+        xp.listAllExpense()
     elif userChoice == "5":
         backToMenu()
 
-
+#TAMAMLANDI 00.30
 def category():
     print("\n<--------KATEGORİ İŞLEMLERİ-------->")
     print("1.Kategori Ekle\n2.Kategori Düzenle\n3.Kategori Sil\n4.Kategori Listele\n5.Geri")
@@ -78,11 +78,12 @@ def report():
     print("1.Haftalık Rapor Oluştur\n2.Aylık Rapor Oluştur\n3.Yıllık Rapor Oluştur\n4.Özel Rapor Oluştur\n5.Geri")
     userChoice = input("Yapmak istediğiniz işlemi seçiniz  --->   ").lower()
     if userChoice == "1":
-        return rp.weekly()
+        print("\n<--------HAFTALIK RAPOR İŞLEMLERİ-------->")
+        return rp.reportData(7)
     elif userChoice == "2":
-        return rp.monthly()
+        return rp.reportData(30)
     elif userChoice == "3":
-        return rp.yearly()
+        return rp.reportData(365)
     elif userChoice == "4":
         rp.special()
     elif userChoice == "5":

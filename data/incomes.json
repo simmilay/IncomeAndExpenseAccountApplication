@@ -1,0 +1,74 @@
+[
+   {
+      "incomeId": "6d0c5d80/2b58/436d/8b23/8027f71d874e",
+      "userId": "sila ayas",
+      "incomeName": "maaş",
+      "incomeAmount": 22000,
+      "incomeDate": "2025/10/10",
+      "incomeDesc": "ilk maaş",
+      "incomeCat": null
+   },
+   {
+      "incomeId": "ac65ebb9/8335/4f90/8f7d/f48496bf9f2b",
+      "userId": "db678f45/dc98/4347/a739/92c092d7237d",
+      "incomeName": "sdasd",
+      "incomeAmount": 234234,
+      "incomeDate": "2024/05/08",
+      "incomeDesc": "dfgdfg",
+      "incomeCat": "maaş"
+   },
+   {
+      "incomeId": "8a270683/b8a9/4870/9f90/a1510987cb0c",
+      "userId": "db678f45/dc98/4347/a739/92c092d7237d",
+      "incomeName": "deneme",
+      "incomeAmount": 23234,
+      "incomeDate": "2023/02/1",
+      "incomeDesc": "lfişsldfişslfislşdf",
+      "incomeCat": null
+   },
+   {
+      "incomeId": "437f4ddd/42ac/407d/83d7/562f83ae0ea1",
+      "userId": "db678f45/dc98/4347/a739/92c092d7237d",
+      "incomeName": "asd",
+      "incomeAmount": 234.0,
+      "incomeDate": "2025/09/09",
+      "incomeDesc": "sdasdas",
+      "incomeCat": "sd"
+   },
+   {
+      "incomeId": "2c333fab/dbb0/4f7f/8cd2/0060cd7c1539",
+      "userId": "b9da694e/7f8a/4e8f/950a/eeaeb9e07e66",
+      "incomeName": "test",
+      "incomeAmount": 456789.0,
+      "incomeDate": "2020/12/12",
+      "incomeDesc": "34567890",
+      "incomeCat": null
+   },
+   {
+      "incomeId": "6c96b01f-c4dc-4815-8232-45d98bc943c8",
+      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
+      "incomeName": "sdsfsf",
+      "incomeAmount": 23234.0,
+      "incomeDate": "2024/08/21",
+      "incomeDesc": "ljlsjfşs",
+      "incomeCat": "sd"
+   },
+   {
+      "incomeId": "5eafd80f-dfb0-4c41-b80c-e656d6b28f00",
+      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
+      "incomeName": "deneme",
+      "incomeAmount": 23334.0,
+      "incomeDate": "2025/11/06",
+      "incomeDesc": "deneme",
+      "incomeCat": "sd"
+   },
+   {
+      "incomeId": "0011f39c-de90-416a-927d-377259765183",
+      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
+      "incomeName": "sidlfslf",
+      "incomeAmount": 34234.0,
+      "incomeDate": "2025/11/03",
+      "incomeDesc": "79734",
+      "incomeCat": null
+   }
+]

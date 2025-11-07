@@ -1,42 +1,12 @@
 [
    {
-      "userId": "7fa21cfe-4aa1-4206-8d22-8ff8661c5419",
-      "userName": "sıla",
-      "password": "123"
-   },
-   {
-      "userId": "524c5fc6-13a0-4cea-b2d2-3970589bdd25",
+      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
       "userName": "sila",
       "password": "123"
    },
    {
-      "userId": "cd959c26-fce9-442b-aecc-ffebfd0f1c61",
-      "userName": "ayşe",
-      "password": "asd"
-   },
-   {
-      "userId": "b6f78798-56d8-49e0-bd3f-7a767a8e0fd3",
-      "userName": "fatma",
-      "password": "asd"
-   },
-   {
-      "userId": "8fd1dde7-fccf-4343-a577-dc04992f55ba",
-      "userName": "yagmur",
-      "password": "123"
-   },
-   {
-      "userId": "d14956a3-6daa-4939-96bf-26ad5ad87bca",
-      "userName": "abad",
-      "password": "12w3"
-   },
-   {
-      "userId": "eba91296-2b4e-448f-9557-29a3b3d0a7d5",
-      "userName": "bal",
-      "password": "as"
-   },
-   {
-      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
-      "userName": "sila ayas",
-      "password": "as"
+      "userId": "b9da694e-7f8a-4e8f-950a-eeaeb9e07e66",
+      "userName": "ze",
+      "password": "1234"
    }
 ]

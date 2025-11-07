@@ -4,22 +4,22 @@ import os
 
 
 def uniqeCheck(myList, prop, userInput):
-    print('myList= ', myList)
-    print('prop= ', prop)
-    print('userInput=> ', userInput)
+    # print('myList= ', myList)
+    # print('prop= ', prop)
+    # print('userInput=> ', userInput)
     for element in myList:
-        print('element=> ', element)
+        # print('element=> ', element)
         if userInput == element[prop]:
             return True
     return False
 
 
-def find(myList, prop, userInput):
-    for element in myList:
-        if userInput == element[prop]:
-            return True
+# def find(myList, prop, userInput):
+#     for element in myList:
+#         if userInput == element[prop]:
+#             return True
 
-    return False
+#     return False
 
 
 def uniqeId():
@@ -31,7 +31,7 @@ def getJsonFile(fileName: str):
     base_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
     data_path = os.path.join(base_dir, "data")
     full_name = os.path.join(data_path, fileName)
-    print(f" : {full_name}")
+    # print(f" : {full_name}")
     return full_name
 
 
@@ -42,7 +42,7 @@ def jsonWrite(listName, jsonName):
         json_str = json.dumps(listName, ensure_ascii=False, indent=3)
         with open(data_dir, "w", encoding='utf-8') as f:
             f.write(json_str)
-        print("dosya yazıldı")
+        # print("dosya yazıldı")
     except:
         print(f'Error occurred when opening {listName} to read')
         return None
@@ -54,8 +54,8 @@ def jsonRead(jsonName):
         data_dir = getJsonFile(jsonName)
         with open(data_dir, "r", encoding='utf-8') as file:
             listUser = json.load(file)
-            print("dosya okundu")
-            print("list user burda", listUser)
+            # print("dosya okundu")
+            # print("list user burda", listUser)
             return listUser
     except FileNotFoundError:
         print(f'{data_dir} Dosya Bulunamadı')
@@ -64,3 +64,6 @@ def jsonRead(jsonName):
         print(
             f'Error occurred when reading JSON file: {data_dir}. Details: {e}')
         return []
+
+
+

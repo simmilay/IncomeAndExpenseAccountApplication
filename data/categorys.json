@@ -18,27 +18,9 @@
       "catName": "maaş"
    },
    {
-      "catId": "acf35195-ff74-4c7d-986d-9dc409010e7d",
-      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
-      "catType": "income",
-      "catName": "sd"
-   },
-   {
       "catId": "284d586c-acdb-4401-bd2f-577724a0bb27",
       "userId": "db678f45-dc98-4347-a739-92c092d7237d",
       "catType": "income",
       "catName": "www"
-   },
-   {
-      "catId": "6a3bbb25-1aa7-4006-9a61-d153a2a7fb84",
-      "userId": "b9da694e-7f8a-4e8f-950a-eeaeb9e07e66",
-      "catType": "category",
-      "catName": "ertyuıo"
-   },
-   {
-      "catId": "41dc0fca-c1c0-4a76-bde7-29a54eebc9f3",
-      "userId": "b9da694e-7f8a-4e8f-950a-eeaeb9e07e66",
-      "catType": "expense",
-      "catName": "dfghjk"
    }
 ]

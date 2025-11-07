@@ -1,0 +1,11 @@
+[
+   {
+      "expenseId": "96de4b1c-6676-4e15-9e24-b249cb4ae3ae",
+      "userId": "db678f45-dc98-4347-a739-92c092d7237d",
+      "expenseName": "ev kirası",
+      "expenseAmount": 23000,
+      "expenseDate": "2025/10/23",
+      "expenseDesc": "ilk kira ödemesi",
+      "expenseCat": "ev kirası"
+   }
+]
